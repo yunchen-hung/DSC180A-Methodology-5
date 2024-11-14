@@ -1,6 +1,7 @@
- Jennifer Hung (yhung@ucsd.edu)
+### Jennifer Hung (yhung@ucsd.edu)
 
- Multivariate Prediction from Human Brain Functional MRI Data, Dr. Armin Schwartzman
+#### Multivariate Prediction from Human Brain Functional MRI Data
+##### Dr. Armin Schwartzman
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
